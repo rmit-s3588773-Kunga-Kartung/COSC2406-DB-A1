@@ -1,3 +1,3 @@
 #!/bin/bash
 
-javac -cp .:lib/* ImportDRB.java
+javac -cp .:lib/* *.java
